@@ -1,6 +1,6 @@
 # MSDS422-Practical-ML
 
-All of these projects in this repositary were created for my Master's in Data Science course Practical Machine Learning at Northwestern University. This repository contains jupyter notebooks where I participated in Kaggle competitions.
+All of these projects in this repository were created for my Master's in Data Science course Practical Machine Learning at Northwestern University. This repository contains jupyter notebooks where I participated in Kaggle competitions using Python.
 
 ## Project Directory
 
